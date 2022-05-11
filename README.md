@@ -1,5 +1,22 @@
-# nlw8Return
+# 🚀nlw8Return - Rocketseat 💜
+Feedback App: ✅React | Node | React Native
+ 
+- Choose a type feedback:
 
+  🐞 Bug 
+  
+  😱 Problem 
+  
+  💡  Idea 
+- Send a print scren
 
-
-Feedback App: React | Node | React Native
+## TypeScript
+ 🔮interface 
+ 
+ 🔬type
+ 
+ ## TailwindCSS
+  💈 Stade | Styles
+ 
+ ### accessibility
+  ♿ keybord navigation
