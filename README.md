@@ -19,4 +19,8 @@ Feedback App: ✅React | Node | React Native
   💈 Stade | Styles
  
  ### accessibility
+<<<<<<< HEAD
   ♿ keybord navigation
+=======
+  ♿ keybord navigation
+>>>>>>> 527cde7e8f59b338ed16be9826ee1e5d70c37548
